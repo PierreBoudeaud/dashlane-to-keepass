@@ -1,0 +1,8 @@
+{
+  "dashlaneJSON": {
+    "path": "./DashlaneExport.json"
+  },
+  "keePassCSV": {
+    "path": "./passwords_processed.csv"
+  }
+}
